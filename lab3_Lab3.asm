@@ -1,8 +1,6 @@
 # John Nover
 # jnover@ucsc.edu
 # Assignment: Lab 3
-# Section: 1B, M/W 11-12pm
-# Due: Sunday, 11/1/17 @ 11:59pm
 
 #======= Main Program =======#
 .data	
