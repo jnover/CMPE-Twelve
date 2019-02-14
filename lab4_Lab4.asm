@@ -1,8 +1,7 @@
 # John Nover
 # jnover@ucsc.edu
 # Assignment: Lab 4
-# Section: 1B, M/W 11-12pm
-# Due: Monday, 11/13/17 @ 11:59pm
+
 #======= Main Program =======#
 .data	
 	in_msg:	.asciiz "Please enter an unsigned int larger than 2: "
